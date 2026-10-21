@@ -1,0 +1,19 @@
+[
+  {
+    "template_id": "13f1a679ae408001bf60d59efdca01b5",
+    "name": {
+      "ru": "Плащ",
+      "en": "Cloak"
+    },
+    "item_tier": 6,
+    "item_type": "shoulders",
+    "item_subtype": "cloak",
+    "image_path": "item-images/gear/shoulders-cloak-common.webp",
+    "blueprint_quality": "legendary",
+    "property_value_ranges": {
+      "evasion": null,
+      "health": null,
+      "resistance": null
+    }
+  }
+]
